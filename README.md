@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, finance, automati
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meiderx&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lucasmader/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucasmader/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:lucasluanmader@gmail.com)  
 
 Thanks for visiting my profile! 🚀
